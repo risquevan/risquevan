@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @risquevan
 - 👀 I’m interested in backend/frontend development, specializing in java/js.
-- 🌱 I’m currently learning webapps in more detail. 
+- 🌱 I’m currently learning webapps in more detail. Elixir lang.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
